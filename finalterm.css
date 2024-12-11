@@ -1,0 +1,86 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Website</title>
+    <meta charset="utf-8"> 
+
+   <!-- Latest compiled and minified CSS -->
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+   <!-- Latest compiled JavaScript -->
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+ </head>
+ <style>
+  .font {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;size: 10pt; margin-top: 3vh; margin-left: 7vh; color: antiquewhite;}
+  .font1 {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;size: 10pt; margin-top: 3vh; margin-left: 0vh;color: antiquewhite;} 
+  .font2 {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;size: 10pt; margin-top: 3vh; margin-left: 0vh;color: antiquewhite;} 
+  .font3 {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;size: 10pt; margin-top: 3vh; margin-left: 0vh;color: antiquewhite;} 
+  .font4 {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;size: 10pt; margin-top: 3vh; margin-left: 0vh;color: antiquewhite;} 
+  .font5 {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;size: 10pt; margin-top: 3vh; margin-left: 0vh;color: antiquewhite;} 
+  .img1 {height: 20px; width: 20px; margin-top: 25px; margin-left: 150px;} 
+  .img2 {height: 250px; width: 200px; margin-top: 50px; margin-left: 90px;} 
+  .img3 {height: 300px; width: 300px; margin-top: 10px; margin-left: 35px;} 
+  .img4 {height: 300px; width: 160px; margin-top: 180px; margin-left: 35px;} 
+  .About1 {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;size: 20pt;margin-left: 5vh;margin: right 15vh;margin-top: 30vh ; color: antiquewhite; } 
+  
+ </style>
+
+  <div class="row" style="height: 10vh;">
+<div class="col-1"><img class="img1" src="./Screenshot 2024-12-11 125708.png"></div>
+     <div class="col-5 font"> Kennice Mascarenhas </div> 
+    
+    
+ 
+ <div class="col font1"> About </div> 
+ <div class="col font3"> <a href="./interest.html">Interest</a></div> 
+ <div class="col font4"> <a href="./contact.html">Contact</a></div> 
+ <div class="col font5"> <a href="./project.html">Project</a></div> 
+ 
+ 
+ 
+ </div> 
+
+   <div class="row" style="height: 90vh;">
+    <div class="col-3 ">
+     
+      <div class="col-1"><img class="img2" src="./Profile image.png"></div>
+      <div class="col-1"><img class="img3" src="./saree image.jpg"></div> 
+
+    </div>
+
+
+    <div class="col-2 ">
+      <div class="col-2"><img class="img4" src="./image in formals- kennice.jpg"></div> 
+
+
+    </div>
+
+    <div class="col  About1">
+      <br> ABOUT <br>
+
+
+      Hi! I’m Kennice Mascarenhas, a first-year design student at Atlas Skilltech University with a deep-rooted passion <br>
+      for creativity, music, and nature. My journey in the arts began in high school, where I developed my skills in <br>
+      Art & Design courses and discovered the magic of multimedia storytelling.Beyond design, I’m inspired by the <br>
+       wonders of nature and the thrill of adventure. I love capturing the beauty of landscapes, wildlife, and candid moments during treks 
+      and explorations through my photography. Spending time outdoors fuels my creativity, while my connection with pets adds a touch 
+      of joy and warmth to my everyday life. Music is another vital part of my world. I sing, play a few instruments, and immerse 
+      myself in diverse genres that spark my imagination and enhance my creative process.Although I’m an introvert at heart, I thrive
+      in collaborative settings, contributing fresh ideas and a thoughtful approach to teamwork. My artistic journey is one of constant 
+      exploration, spanning intricate illustrations, dynamic designs, and expressive photography.This website is a reflection of my 
+      evolving skills, passions, and dedication to the creative process. Welcome to my world of art, music, and design!</div> 
+
+     
+ </div> 
+
+  
+ 
+
+
+
+
+
+</html>
